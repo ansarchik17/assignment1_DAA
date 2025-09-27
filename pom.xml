@@ -1,0 +1,29 @@
+<dependencies>
+  <!-- ✅ JUnit 5 for testing -->
+  <dependency>
+    <groupId>org.junit.jupiter</groupId>
+    <artifactId>junit-jupiter</artifactId>
+    <version>5.10.0</version>
+    <scope>test</scope>
+  </dependency>
+
+  <!-- ✅ Apache Commons CSV (for metrics output) -->
+  <dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-csv</artifactId>
+    <version>1.10.0</version>
+  </dependency>
+
+  <!-- ✅ (Optional) JMH Benchmarking -->
+  <dependency>
+    <groupId>org.openjdk.jmh</groupId>
+    <artifactId>jmh-core</artifactId>
+    <version>1.38</version>
+  </dependency>
+  <dependency>
+    <groupId>org.openjdk.jmh</groupId>
+    <artifactId>jmh-generator-annprocess</artifactId>
+    <version>1.38</version>
+    <scope>provided</scope>
+  </dependency>
+</dependencies>
