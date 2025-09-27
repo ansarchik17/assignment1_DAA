@@ -1,0 +1,13 @@
+algorithm,n,comparisons,allocations,depth,time_ms
+MergeSort,100,550,1344,7,0
+QuickSort,100,729,675,4,0
+DeterministicSelect(k=50),100,577,562,3,0
+ClosestPair,100,123,36,7,2
+MergeSort,1000,8717,19952,10,1
+QuickSort,1000,9759,11144,6,0
+DeterministicSelect(k=500),1000,7674,7376,5,1
+ClosestPair,1000,1104,488,10,2
+MergeSort,5000,55188,123616,13,1
+QuickSort,5000,67028,65734,8,1
+DeterministicSelect(k=2500),5000,39710,37727,6,1
+ClosestPair,5000,6393,2048,12,5
