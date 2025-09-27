@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/34bf70ef-57f1-4d34-8d6f-a0035d2f70f9)# Assignment 1: Algorithm Analysis
+Assignment 1: Algorithm Analysis
 
 ## Architecture Notes
 
